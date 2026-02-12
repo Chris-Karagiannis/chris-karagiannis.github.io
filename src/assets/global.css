@@ -1,0 +1,12 @@
+:root {
+  --color-bg: #fff6f0;
+  --color-text: #3f3329;      
+  --color-subtext: #8a6f5d;    
+  --color-link: #c8744a;
+  --color-link-hover: #a85f3f;
+  --color-section: #b86945;
+  --color-card-bg: #fff0e5; 
+  --color-card-hover: #ffe4d4;
+  --color-card-shadow: rgba(90, 55, 35, 0.08);
+  --color-card-shadow-hover: rgba(90, 55, 35, 0.16);
+}
